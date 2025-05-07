@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="54px" preserveAspectRatio="xMidYMin meet" viewBox="1108 445 8 54" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 870 407  L 870 445  A 5 5 0 0 0 875 450 L 1107 450  A 5 5 0 0 1 1112 455 L 1112 497  " stroke-width="2" stroke-dasharray="0" stroke="rgba(194, 128, 255, 1)" fill="none" class="stroke" />
-  <path d="M 1116.2928932188136 491.89289321881347  L 1112 496.18578643762703  L 1107.7071067811864 491.89289321881347  L 1106.2928932188136 493.3071067811866  L 1111.2928932188136 498.3071067811866  L 1112 499.014213562373  L 1112.7071067811864 498.3071067811866  L 1117.7071067811864 493.3071067811866  L 1116.2928932188136 491.89289321881347  Z " fill-rule="nonzero" fill="rgba(194, 128, 255, 1)" stroke="none" class="fill" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="320 552 20 18" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1062 716  L 335 716  A 5 5 0 0 1 330 711 L 330 561  " stroke-width="2" stroke-dasharray="0" stroke="rgba(149, 242, 4, 1)" fill="none" class="stroke" />
+  <path d="M 325.70710678118655 566.1071067811865  L 330 561.8142135623731  L 334.29289321881345 566.1071067811865  L 335.70710678118655 564.6928932188134  L 330.70710678118655 559.6928932188134  L 330 558.9857864376269  L 329.29289321881345 559.6928932188134  L 324.29289321881345 564.6928932188134  L 325.70710678118655 566.1071067811865  Z " fill-rule="nonzero" fill="rgba(149, 242, 4, 1)" stroke="none" class="fill" />
 </svg>

@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="1265 707 20 18" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1162 716  L 1275 716  " stroke-width="2" stroke-dasharray="0" stroke="rgba(0, 153, 204, 1)" fill="none" class="stroke" />
-  <path d="M 1269.8928932188135 711.7071067811866  L 1274.185786437627 716  L 1269.8928932188135 720.2928932188134  L 1271.3071067811863 721.7071067811866  L 1276.3071067811863 716.7071067811866  L 1277.0142135623728 716  L 1276.3071067811863 715.2928932188134  L 1271.3071067811863 710.2928932188134  L 1269.8928932188135 711.7071067811866  Z " fill-rule="nonzero" fill="rgba(0, 153, 204, 1)" stroke="none" class="fill" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="211px" height="10px" preserveAspectRatio="xMinYMid meet" viewBox="124 714 211 8" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip98">
+      <path d="M 211 706  L 257 706  L 257 731  L 211 731  Z M 119 559  L 333 559  L 333 731  L 119 731  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 330 559  L 330 713  A 5 5 0 0 1 325 718 L 134 718  A 5 5 0 0 1 129 713 L 129 571  " stroke-width="2" stroke-dasharray="0" stroke="rgba(217, 0, 27, 1)" fill="none" class="stroke" mask="url(#Clip98)" />
+  <path d="M 124.70710678118655 576.1071067811865  L 129 571.8142135623731  L 133.29289321881345 576.1071067811865  L 134.70710678118655 574.6928932188134  L 129.70710678118655 569.6928932188134  L 129 568.9857864376269  L 128.29289321881345 569.6928932188134  L 123.29289321881345 574.6928932188134  L 124.70710678118655 576.1071067811865  Z " fill-rule="nonzero" fill="rgba(217, 0, 27, 1)" stroke="none" class="fill" mask="url(#Clip98)" />
 </svg>
