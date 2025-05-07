@@ -1,0 +1,142 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1706px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u536 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1704px;
+  height:700px;
+  display:flex;
+  transition:none;
+}
+#u536 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u536_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1704px;
+  height:700px;
+}
+#u536_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u537 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:617px;
+  width:1699px;
+  height:590px;
+  display:flex;
+  transition:none;
+}
+#u537 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u537_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1699px;
+  height:590px;
+}
+#u537_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u538 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:1214px;
+  width:1699px;
+  height:807px;
+  display:flex;
+  transition:none;
+}
+#u538 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u538_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1699px;
+  height:807px;
+}
+#u538_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u539 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:1997px;
+  width:1706px;
+  height:806px;
+  display:flex;
+  transition:none;
+}
+#u539 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u539_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1706px;
+  height:806px;
+}
+#u539_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}

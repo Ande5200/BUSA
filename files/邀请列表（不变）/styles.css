@@ -1,0 +1,142 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1708px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u540 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1703px;
+  height:821px;
+  display:flex;
+  transition:none;
+}
+#u540 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u540_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1703px;
+  height:821px;
+}
+#u540_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u541 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:821px;
+  width:1708px;
+  height:683px;
+  display:flex;
+  transition:none;
+}
+#u541 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u541_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1708px;
+  height:683px;
+}
+#u541_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u542 {
+  border-width:0px;
+  position:absolute;
+  left:3px;
+  top:1526px;
+  width:1705px;
+  height:612px;
+  display:flex;
+  transition:none;
+}
+#u542 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u542_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1705px;
+  height:612px;
+}
+#u542_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u543 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:2154px;
+  width:1700px;
+  height:402px;
+  display:flex;
+  transition:none;
+}
+#u543 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u543_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1700px;
+  height:402px;
+}
+#u543_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
