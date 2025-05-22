@@ -2,8 +2,8 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-25px;
-  width:513px;
+  left:-14px;
+  width:524px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -48,7 +48,7 @@
   border-width:0px;
   position:absolute;
   left:39px;
-  top:158px;
+  top:233px;
   width:60px;
   height:32px;
   display:flex;
@@ -102,7 +102,7 @@
   border-width:0px;
   position:absolute;
   left:112px;
-  top:158px;
+  top:233px;
   width:116px;
   height:32px;
   display:flex;
@@ -502,6 +502,195 @@
   width:100%;
 }
 #u878_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u879 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u880 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u881_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:45px;
+  height:24px;
+  background:inherit;
+  background-color:rgba(24, 144, 255, 1);
+  border-radius:17px;
+  filter:drop-shadow(none);
+  transition:none;
+  font-family:"Microsoft YaHei", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u881 {
+  border-width:0px;
+  position:absolute;
+  left:143px;
+  top:150px;
+  width:45px;
+  height:24px;
+  display:flex;
+  transition:none;
+  transform-origin:50% 50%;
+  font-family:"Microsoft YaHei", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u881 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:2px 2px 2px 8px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u881_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u882_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:18px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius:9px;
+  filter:drop-shadow(none);
+  transition:none;
+  text-align:left;
+}
+#u882 {
+  border-width:0px;
+  position:absolute;
+  left:168px;
+  top:153px;
+  width:18px;
+  height:18px;
+  display:flex;
+  transition:none;
+  transform-origin:50% 50%;
+  text-align:left;
+}
+#u882 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:2px 2px 2px 8px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u882_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u883_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:123px;
+  height:56px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border-radius:0px;
+  filter:drop-shadow(none);
+  transition:none;
+  font-family:"PingFangSC-Regular", "PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.8470588235294118);
+  text-align:right;
+  line-height:22px;
+}
+#u883 {
+  border-width:0px;
+  position:absolute;
+  left:14px;
+  top:146px;
+  width:123px;
+  height:56px;
+  display:flex;
+  transition:none;
+  transform-origin:50% 50%;
+  font-family:"PingFangSC-Regular", "PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.8470588235294118);
+  text-align:right;
+  line-height:22px;
+}
+#u883 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:5px 0px 29px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u883_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u884_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:313px;
+  height:15px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border-radius:0px;
+  filter:drop-shadow(none);
+  transition:none;
+}
+#u884 {
+  border-width:0px;
+  position:absolute;
+  left:213px;
+  top:156px;
+  width:313px;
+  height:15px;
+  display:flex;
+  transition:none;
+  transform-origin:50% 50%;
+}
+#u884 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u884_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
