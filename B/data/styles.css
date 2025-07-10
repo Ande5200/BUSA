@@ -1,0 +1,171 @@
+﻿.ax_default {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+._图片 {
+}
+._一级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:13px;
+  text-align:left;
+}
+._段落 {
+  text-align:left;
+}
+._表单提示文本 {
+  color:#999999;
+}
+._表单禁用 {
+}
+._流程图形状 {
+}
+.shape {
+}
+.box_1 {
+}
+.box_2 {
+}
+.image {
+  color:#000000;
+}
+.heading_1 {
+  font-family:"Arial Negreta", "Arial Normal", "Arial", sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.sticky_1 {
+  text-align:left;
+}
+.table_cell {
+}
+.box_11 {
+}
+.shape1 {
+}
+.icon {
+}
+._图像 {
+}
+.box_21 {
+}
+.box_3 {
+}
+._默认样式 {
+}
+.vertical_line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.line {
+}
+.table_cell1 {
+}
+.ellipse {
+}
+.shape2 {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.box_12 {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.box_22 {
+}
+.line1 {
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.ellipse1 {
+}
+.placeholder {
+}
+.checkbox {
+  text-align:left;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+._形状 {
+}
+.image1 {
+}
+.button {
+}
+.radio_button1 {
+  text-align:left;
+}
+textarea, select, input, button, div, svg { outline: none; }
